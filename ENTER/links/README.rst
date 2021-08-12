@@ -7,7 +7,8 @@
 
 * https://www.kaggle.com/talmanr/a-simple-features-dnn-using-tensorflow
 
-* 
+* https://plotly.com/python/getting-started/
+
 
 |
 |
