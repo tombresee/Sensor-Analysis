@@ -3,7 +3,7 @@
 
 * https://www.kaggle.com/c/uci-har
 
-* 
+* https://www.kaggle.com/malekzadeh/human-activity-recognition-with-mobile-sensing
 
 * 
 
