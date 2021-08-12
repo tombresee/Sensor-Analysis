@@ -5,6 +5,8 @@
 
 * https://www.kaggle.com/malekzadeh/human-activity-recognition-with-mobile-sensing
 
+* https://www.kaggle.com/talmanr/a-simple-features-dnn-using-tensorflow
+
 * 
 
 |
