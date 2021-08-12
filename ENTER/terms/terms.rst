@@ -15,7 +15,7 @@ complex term
 
 
 
- what
+what
   Definition lists associate a term with a definition.
 
 *how*
@@ -23,4 +23,4 @@ complex term
   paragraphs or body elements, indented relative to the term.
   Blank lines are not allowed between term and definition.
 
-  
+
