@@ -9,6 +9,20 @@
 
 * https://plotly.com/python/getting-started/
 
+* https://www.kaggle.com/morrisb/what-does-your-smartphone-know-about-you
+
+* https://lvdmaaten.github.io/tsne/
+
+* t-SNE in 3D ? 
+
+* https://databricks.com/notebooks/reprisk_notebooks/02_rep_eda.html
+
+* https://distill.pub/2016/misread-tsne/
+
+* https://www.kaggle.com/parulpandey/part1-visualizing-kannada-mnist-with-pca?scriptVersionId=29322090
+
+
+
 
 |
 |
