@@ -1,4 +1,10 @@
 
+* https://becominghuman.ai/deep-learning-for-sensor-based-human-activity-recognition-970ff47c6b6b
+
+* https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64
+
+* https://towardsdatascience.com/time-series-classification-for-human-activity-recognition-with-lstms-using-tensorflow-2-and-keras-b816431afdff
+
 * HAR - https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/
 
 * https://www.kaggle.com/c/uci-har
