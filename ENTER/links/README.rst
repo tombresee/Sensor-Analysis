@@ -1,4 +1,16 @@
 
+* https://www.kaggle.com/jdarcy/introducing-ssa-for-time-series-decomposition
+
+* https://www.baeldung.com/cs/svm-multiclass-classification
+
+* video:  https://youtu.be/XOEN9W05_4A
+
+* https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/
+
+* https://link.medium.com/ZHmcZtcTFib
+
+* https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/
+
 * https://link.springer.com/article/10.1007/s40860-021-00147-0
 
 * https://becominghuman.ai/deep-learning-for-sensor-based-human-activity-recognition-970ff47c6b6b

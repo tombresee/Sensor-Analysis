@@ -17,6 +17,10 @@ Milestone II - University of Michigan
 |
 
 
+by placing multiple sensors at carefully selected places on the human
+body, the precision of classifying the activities of the subjects goes up significantly
+
+
 MASTER LIST OF THINGS WE NEED TO DO FOR THIS PROJECT 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
