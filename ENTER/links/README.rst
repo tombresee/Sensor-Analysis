@@ -1,4 +1,6 @@
 
+* https://link.springer.com/article/10.1007/s40860-021-00147-0
+
 * https://becominghuman.ai/deep-learning-for-sensor-based-human-activity-recognition-970ff47c6b6b
 
 * https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64
@@ -26,8 +28,6 @@
 * https://distill.pub/2016/misread-tsne/
 
 * https://www.kaggle.com/parulpandey/part1-visualizing-kannada-mnist-with-pca?scriptVersionId=29322090
-
-
 
 
 |
