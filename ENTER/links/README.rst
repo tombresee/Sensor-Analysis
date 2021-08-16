@@ -1,4 +1,6 @@
 
+* https://towardsdatascience.com/t-sne-clearly-explained-d84c537f53a
+
 * https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60
 
 * REALDISP Activity Recognition Dataset Data Set - https://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset
