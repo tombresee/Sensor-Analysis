@@ -1,11 +1,15 @@
 
+* https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60
+
 * REALDISP Activity Recognition Dataset Data Set - https://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset
 
 * https://www.kaggle.com/jdarcy/introducing-ssa-for-time-series-decomposition
 
 * https://www.baeldung.com/cs/svm-multiclass-classification
 
-* video:  https://youtu.be/XOEN9W05_4A
+* video - https://youtu.be/XOEN9W05_4A
+
+* https://towardsdatascience.com/multi-step-time-series-forecasting-with-arima-lightgbm-and-prophet-cc9e3f95dfb0
 
 * https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/
 
