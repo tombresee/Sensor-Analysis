@@ -1,4 +1,6 @@
 
+* USE:  https://github.com/amitojdeep/uci-har-rbf-svm/blob/master/svm_rbf-10t10f.ipynb
+
 * https://towardsdatascience.com/t-sne-clearly-explained-d84c537f53a
 
 * https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60

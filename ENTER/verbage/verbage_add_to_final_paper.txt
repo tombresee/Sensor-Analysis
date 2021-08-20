@@ -1,0 +1,51 @@
+
+Abstract: In recent years, human activity recognition has become a hot topic inside the scientific
+community. The reason to be under the spotlight is its direct application in multiple domains,
+like healthcare or fitness. Additionally, the current worldwide use of smartphones makes it particularly
+easy to get this kind of data from people in a non-intrusive and cheaper way, without the need for
+other wearables. 
+
+In this paper, we introduce our orientation-independent, placement-independent
+and subject-independent human activity recognition dataset. The information in this dataset is
+the measurements from the accelerometer, gyroscope, magnetometer, and GPS of the smartphone.
+Additionally, each measure is associated with one of the four possible registered activities: inactive,
+active, walking and driving. 
+
+This work also proposes asupport vector machine (SVM) model to
+perform some preliminary experiments on the dataset. Considering that this dataset was taken from
+smartphones in their actual use, unlike other datasets, the development of a good model on such data
+is an open problem and a challenge for researchers. By doing so, we would be able to close the gap
+between the model and a real-life application.
+
+Giving birth to the knowledge area called human activity recognition (HAR), the accurate
+identification of different human activities has become a hot research topic. 
+
+This area tries to identify
+the action performed by a subject based on the data records from a set of sensors. The recording of
+these sensors is carried out while the subject performs a series of well-defined movements, such as
+nodding, raising the hand, walking, running or driving. In this sense, wearable devices, such as
+activity bracelets or smartphones, have become of great use as sources of this sort of data. This kind of
+devices, especially the latter ones, provide a broad set of sensors in a convenient size which can be used
+relatively easy with high-grade performance and accuracy. 
+
+The researchers use the information about
+people’s behaviors gathered by these sensors to support the demands from domains like healthcare,
+fitness or home automation [1]. The result from the intersection between the widespread sensing all
+over the world, due to the smartphones and the models developed from that continuous recording,
+is a research area that has attracted increasing attention in recent years [2].
+
+ Provide and make publicly available a new HAR dataset closer to a realistic scenario (see the files
+in Supplementary Materials). This dataset is independent of the device orientation and placement,
+while it is also individual independent.
+ The new dataset adds additional signals not very explored until today like the GPS and
+magnetometer sensor measurements.
+ A first reference model is provided for this dataset, after applying a specific sliding window
+length and overlap.
+ A study of the best architecture for longer-themed activities, such as those suggested in our work.
+
+
+
+
+
+
+
